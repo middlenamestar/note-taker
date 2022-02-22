@@ -1,6 +1,17 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "🍏🍎🍐🍊🍋 grocery shopping",
+        "text": "buy coconut water, kale, spinach, green apple, mint and frozen magnoes to make green smoothie!",
+        "id": "2cca52a9-7a6f-49dc-8492-0d9f2aa5fc37"
+    },
+    {
+        "title": "costco 🛒",
+        "text": "vitamin supplements, contact solution, fresh fruits, coffee beans",
+        "id": "8da6f40c-549e-4966-b342-1da9b4df6db2"
+    },
+    {
+        "title": "meal prep :)",
+        "text": "🍱",
+        "id": "6b88fafc-1c5e-4015-bce2-afcd5da0151a"
     }
 ]
